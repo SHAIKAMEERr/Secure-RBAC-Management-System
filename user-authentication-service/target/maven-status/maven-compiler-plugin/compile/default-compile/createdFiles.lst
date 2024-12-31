@@ -1,0 +1,13 @@
+com\example\authentication\config\SecurityConfig.class
+com\example\userauth\service\AuthenticationService.class
+com\example\authentication\UserAuthenticationServiceApplication.class
+com\example\userauth\exception\GlobalExceptionHandler.class
+com\example\authentication\model\UserDTO.class
+com\example\authentication\repository\UserRepository.class
+com\example\authentication\controller\AuthController.class
+com\example\authentication\service\AuthService.class
+com\example\userauth\controller\AuthenticationController.class
+com\example\userauth\dto\UserDTO.class
+com\example\userauth\exception\CustomException.class
+com\example\authentication\model\UserEntity.class
+com\example\userauth\dao\UserDAO.class
